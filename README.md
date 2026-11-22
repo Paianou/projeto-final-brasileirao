@@ -29,3 +29,5 @@ Se a pasta `dados_brutos/` não existir, o notebook baixa os arquivos direto da 
 **Fonte dos dados:** [Brasileirão Dataset — adaoduque](https://github.com/adaoduque/Brasileirao_Dataset) (dados públicos).
 
 **Dashboard (Looker/Data Studio):** https://datastudio.google.com/reporting/1bb9fca4-57a3-4597-bbc5-22fd8b271d8b
+
+**Autor:** Thiago Paiano — [LinkedIn](https://linkedin.com/in/thiago-paiano) · [GitHub](https://github.com/Paianou)
